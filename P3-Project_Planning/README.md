@@ -10,7 +10,7 @@ For this assignment, you'll create some initial plans for your project.
 
 The linked PDF contains 5 wireframes.
 
-https://github.com/ffaneus/liftoff-assignments/blob/master/P3-Project_Planning/WireFrame.pdf
+https://github.com/ffaneus/liftoff-assignments/blob/master/P3-Project_Planning/WireFrame.pdf 
 
 •	KnowYourZone Home Page
 
