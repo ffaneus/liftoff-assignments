@@ -24,6 +24,8 @@ https://github.com/ffaneus/liftoff-assignments/blob/master/P3-Project_Planning/W
 
 ### Project Tracker
 
+I have added several user stories, which will extend through the current sprint, and beyond. Below is the link for the tracker.
+
 https://www.pivotaltracker.com/n/projects/2241031
 
 ### Project Repo Link
