@@ -7,11 +7,11 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
+[link to Github account!](https://github.com/ffaneus)
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
-
+[link to LinkedIn account!](https://www.linkedin.com/in/frederick-joseph-81436012a/)
+s
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
 
